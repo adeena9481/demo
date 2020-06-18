@@ -1,0 +1,538 @@
+{
+    "CompanyCode": {
+        "code": "WT",
+        "id": "01"
+    },
+    "cluster_skills": [],
+    "seed": "",
+    "Location": "Calgary",
+    "id": "00010477",
+    "total_project_duration": 13971,
+    "roleId": "",
+    "additional_skills": [],
+    "languages": [
+        {
+            "prof_level": "Experienced",
+            "name": "ENGLISH"
+        }
+    ],
+    "score": 0,
+    "trainings": [
+        {
+            "end": "2012-11-23",
+            "name": "MENTORING",
+            "skills": [],
+            "start": "2012-11-23",
+            "assessed": null,
+            "type": null
+        },
+        {
+            "end": "2013-06-14",
+            "name": "Coaching for Leadership",
+            "skills": [],
+            "start": "2013-06-14",
+            "assessed": null,
+            "type": null
+        },
+        {
+            "end": "2016-12-16",
+            "name": "Outbound-Flawless Execution",
+            "skills": [],
+            "start": "2016-12-16",
+            "assessed": null,
+            "type": null
+        },
+        {
+            "end": "2012-10-17",
+            "name": "Purple Negotiation",
+            "skills": [],
+            "start": "2012-10-16",
+            "assessed": null,
+            "type": null
+        }
+    ],
+    "recent_skills": [
+        "DELIVERY MANAGEMENT",
+        "ORGANIZATIONAL CHANGE MANAGEMENT",
+        "PROCESS TRANSFORMATION CONSULTING",
+        "BUSINESS PRIORITIZATION / ROADMAP CREATION",
+        "BUSINESS TRANSFORMATION CONSULTING",
+        "BUSINESS PROCESS RE-ENGINEERING",
+        "TRANSITION MANAGEMENT",
+        "PRACTICE MANAGEMENT",
+        "SECURITIES SERVICING",
+        "CONSULTING-BAS-OEA",
+        "KNOWLEDGE MANAGEMENT",
+        "HC - PAYOR",
+        "HC - PROVIDER",
+        "UNIX APPLICATION PROGRAMMING",
+        "COBOL",
+        "C PROGRAMMING",
+        "MAINFRAME",
+        "QUALITY MANAGEMENT SYSTEM",
+        "PROJECT MANAGEMENT-BFSI-DOMAIN"
+    ],
+    "band": "GROUP E",
+    "nationality": "Indian",
+    "projects": [
+        {
+            "domain": "HEALTH INSURANCES",
+            "name": "CLIENT ENGAGEMENT",
+            "end_date": "1997-03-31",
+            "skills": [
+                {
+                    "posid": 2294,
+                    "duration": 36,
+                    "skill": "DELIVERY MANAGEMENT",
+                    "proficiency": "L2"
+                }
+            ],
+            "responsibility": " Responsible for     engagement and program management; healthcare presales in US North-East. Successfully     implemented first client-server project for a healthcare payer, HCHP. Used     innovative RAD-JAD techniques for greater user buy-in andfaster time to     market. This successful implementation helped kickoff client’s offshore     initiative. Made in-roads into  multiple service lines such as ADM, infrastructure support; technical     areas such as HP3000, mainframe, client-server and functional teams such     as PPO, HMO and POS. (Clients – HPHC, Tufts Health Plan, Falon Health     Care)",
+            "duration": "1095",
+            "role": "PARTNER-L2",
+            "start_date": "1994-04-01"
+        },
+        {
+            "domain": "TECHNOLOGY",
+            "name": "NEXTGEN AND HYPERAUTOMATION",
+            "end_date": "2019-03-31",
+            "skills": [
+                {
+                    "posid": 6638,
+                    "duration": 12,
+                    "skill": "ORGANIZATIONAL CHANGE MANAGEMENT",
+                    "proficiency": "L1"
+                },
+                {
+                    "posid": 10335,
+                    "duration": 12,
+                    "skill": "PROCESS TRANSFORMATION CONSULTING",
+                    "proficiency": "L1"
+                },
+                {
+                    "posid": 1000000138,
+                    "duration": 12,
+                    "skill": "BUSINESS PRIORITIZATION / ROADMAP CREATION",
+                    "proficiency": "L1"
+                },
+                {
+                    "posid": 5589,
+                    "duration": 36,
+                    "skill": "BUSINESS TRANSFORMATION CONSULTING",
+                    "proficiency": "L2"
+                },
+                {
+                    "posid": 6638,
+                    "duration": 36,
+                    "skill": "ORGANIZATIONAL CHANGE MANAGEMENT",
+                    "proficiency": "L2"
+                },
+                {
+                    "posid": 8045,
+                    "duration": 36,
+                    "skill": "BUSINESS PROCESS RE-ENGINEERING",
+                    "proficiency": "L2"
+                }
+            ],
+            "responsibility": "\r\n Responsible for driving delivery process\r\n     simplification,\r\noptimization and automation through NextGen delivery model\r\n     and HOLMES automation.  \r\n",
+            "duration": "364",
+            "role": "BUSINESS / FUNCTION  HEAD-L2",
+            "start_date": "2018-04-01"
+        },
+        {
+            "domain": "MANUFACTURING",
+            "name": "NEXTGEN AND HYPERAUTOMATION",
+            "end_date": "2019-03-31",
+            "skills": [
+                {
+                    "posid": 6638,
+                    "duration": 12,
+                    "skill": "ORGANIZATIONAL CHANGE MANAGEMENT",
+                    "proficiency": "L1"
+                },
+                {
+                    "posid": 10335,
+                    "duration": 12,
+                    "skill": "PROCESS TRANSFORMATION CONSULTING",
+                    "proficiency": "L1"
+                },
+                {
+                    "posid": 1000000138,
+                    "duration": 12,
+                    "skill": "BUSINESS PRIORITIZATION / ROADMAP CREATION",
+                    "proficiency": "L1"
+                },
+                {
+                    "posid": 5589,
+                    "duration": 36,
+                    "skill": "BUSINESS TRANSFORMATION CONSULTING",
+                    "proficiency": "L2"
+                },
+                {
+                    "posid": 6638,
+                    "duration": 36,
+                    "skill": "ORGANIZATIONAL CHANGE MANAGEMENT",
+                    "proficiency": "L2"
+                },
+                {
+                    "posid": 8045,
+                    "duration": 36,
+                    "skill": "BUSINESS PROCESS RE-ENGINEERING",
+                    "proficiency": "L2"
+                }
+            ],
+            "responsibility": "\r\n Responsible for driving delivery process\r\n     simplification,\r\noptimization and automation through NextGen delivery model\r\n     and HOLMES automation.  \r\n",
+            "duration": "1460",
+            "role": "BUSINESS / FUNCTION  HEAD-L2",
+            "start_date": "2015-04-01"
+        },
+        {
+            "domain": "KNOWLEDGE MANAGEMENT",
+            "name": "TRANSITION",
+            "end_date": "2019-03-31",
+            "skills": [
+                {
+                    "posid": 2502,
+                    "duration": 120,
+                    "skill": "TRANSITION MANAGEMENT",
+                    "proficiency": "L3"
+                },
+                {
+                    "posid": 6638,
+                    "duration": 120,
+                    "skill": "ORGANIZATIONAL CHANGE MANAGEMENT",
+                    "proficiency": "L3"
+                }
+            ],
+            "responsibility": "\r\n Leading\r\n     transition/ transformation management office enabling global clients\r\n     transform application support\r\nby moving to “ServiceNxt” - next generation\r\n     managed services model\r\n Responsible for\r\n     large AMS client acquisition and smoothtransition. Leading multiple large\r\n     deal chase teams for key prospects and transition teams for recently\r\n     acquired customers.\r\n",
+            "duration": "3682",
+            "role": "TRANSITION DIRECTOR-L2",
+            "start_date": "2009-03-01"
+        },
+        {
+            "domain": "CHEMICALS",
+            "name": "CHEMICAL PRACTICE LEADER",
+            "end_date": "2008-04-30",
+            "skills": [
+                {
+                    "posid": 2294,
+                    "duration": 24,
+                    "skill": "DELIVERY MANAGEMENT",
+                    "proficiency": "L2"
+                },
+                {
+                    "posid": 4401,
+                    "duration": 24,
+                    "skill": "PRACTICE MANAGEMENT",
+                    "proficiency": "L2"
+                }
+            ],
+            "responsibility": "\r\n Responsible for\r\n     P&L, global delivery, business growth and domain competency.\r\n",
+            "duration": "760",
+            "role": "PRACTICE HEAD-L2",
+            "start_date": "2006-04-01"
+        },
+        {
+            "domain": "PHARMA",
+            "name": "PRACTICE MANAGEMENT - PHARMA",
+            "end_date": "2006-04-30",
+            "skills": [
+                {
+                    "posid": 2294,
+                    "duration": 12,
+                    "skill": "DELIVERY MANAGEMENT",
+                    "proficiency": "L1"
+                },
+                {
+                    "posid": 4401,
+                    "duration": 12,
+                    "skill": "PRACTICE MANAGEMENT",
+                    "proficiency": "L1"
+                }
+            ],
+            "responsibility": "\r\n Responsible for\r\n     domain competency development, presales and large client acquisitions\r\n",
+            "duration": "394",
+            "role": "PRACTICE HEAD-L2",
+            "start_date": "2005-04-01"
+        },
+        {
+            "domain": "HEALTHCARE SERVICES",
+            "name": "BUSINESS DEVELOPMENT - HEALTHCARE",
+            "end_date": "2003-03-31",
+            "skills": [
+                {
+                    "posid": 6308,
+                    "duration": 24,
+                    "skill": "SECURITIES SERVICING",
+                    "proficiency": "L2"
+                }
+            ],
+            "responsibility": "\r\n Responsible for\r\n     establishing focus on healthcare device and software vendor markets in US\r\n     East and Mid-west. Responsible for account management for North-East US.\r\n     Responsible for US presales.\r\n\r\n\r\n",
+            "duration": "729",
+            "role": "BUSINESS / FUNCTION  HEAD-L1",
+            "start_date": "2001-04-01"
+        },
+        {
+            "domain": "HEALTHCARE SERVICES",
+            "name": "PRESALES - HEALTHCARE",
+            "end_date": "2001-03-31",
+            "skills": [
+                {
+                    "posid": 9988,
+                    "duration": 24,
+                    "skill": "CONSULTING-BAS-OEA",
+                    "proficiency": "L2"
+                }
+            ],
+            "responsibility": "\r\n Responsible for US\r\n     presales for healthcare group and large deals.\r\n",
+            "duration": "730",
+            "role": "DOMAIN CONSULTANT-L2",
+            "start_date": "1999-04-01"
+        },
+        {
+            "domain": "MANUFACTURING",
+            "name": "M&A INTEGRATION OF CELLENT",
+            "end_date": "2017-04-30",
+            "skills": [
+                {
+                    "posid": 1000000138,
+                    "duration": 12,
+                    "skill": "BUSINESS PRIORITIZATION / ROADMAP CREATION",
+                    "proficiency": "L1"
+                }
+            ],
+            "responsibility": "Responsible for business integration of cellent AG into Wipro. cellent itself included 4 different companies in Germany and Austria, with 500 employees and 300 contractors.",
+            "duration": "425",
+            "role": "BUSINESS / FUNCTION  HEAD-L2",
+            "start_date": "2016-03-01"
+        },
+        {
+            "domain": "HEALTHCARE SERVICES",
+            "name": "VERTICAL HEAD",
+            "end_date": "2009-04-30",
+            "skills": [
+                {
+                    "posid": 2294,
+                    "duration": 12,
+                    "skill": "DELIVERY MANAGEMENT",
+                    "proficiency": "L1"
+                },
+                {
+                    "posid": 1000000138,
+                    "duration": 12,
+                    "skill": "BUSINESS PRIORITIZATION / ROADMAP CREATION",
+                    "proficiency": "L1"
+                }
+            ],
+            "responsibility": "Responsible for P&L, global delivery, business growth and domain competency.",
+            "duration": "394",
+            "role": "VERTICAL DELIVERY HEAD-L1",
+            "start_date": "2008-04-01"
+        },
+        {
+            "domain": "MANUFACTURING",
+            "name": "TRANSITION MANAGEMENT",
+            "end_date": "2005-04-30",
+            "skills": [
+                {
+                    "posid": 2502,
+                    "duration": 24,
+                    "skill": "TRANSITION MANAGEMENT",
+                    "proficiency": "L2"
+                },
+                {
+                    "posid": 6638,
+                    "duration": 24,
+                    "skill": "ORGANIZATIONAL CHANGE MANAGEMENT",
+                    "proficiency": "L2"
+                },
+                {
+                    "posid": 7904,
+                    "duration": 24,
+                    "skill": "KNOWLEDGE MANAGEMENT",
+                    "proficiency": "L2"
+                }
+            ],
+            "responsibility": "\r\n Responsible for\r\n     large ADM transitions, delivery transformations, large deal presales and\r\n     large accounts management\r\n",
+            "duration": "760",
+            "role": "TRANSITION DIRECTOR-L2",
+            "start_date": "2003-04-01"
+        },
+        {
+            "domain": "HEALTHCARE SERVICES",
+            "name": "SERVICE DELIVERY",
+            "end_date": "1999-03-31",
+            "skills": [
+                {
+                    "posid": 2294,
+                    "duration": 24,
+                    "skill": "DELIVERY MANAGEMENT",
+                    "proficiency": "L2"
+                },
+                {
+                    "posid": 4401,
+                    "duration": 24,
+                    "skill": "PRACTICE MANAGEMENT",
+                    "proficiency": "L2"
+                },
+                {
+                    "posid": 6952,
+                    "duration": 24,
+                    "skill": "HC - PAYOR",
+                    "proficiency": "L2"
+                },
+                {
+                    "posid": 6953,
+                    "duration": 24,
+                    "skill": "HC - PROVIDER",
+                    "proficiency": "L2"
+                }
+            ],
+            "responsibility": "Responsible for delivery, presales and domain competency development.Build a strong healthcare team - Built a team of 200. Developed the healthcare practice through lateral hiring, designing and conducting training programs and establishing multiple COEs.Projects delivery: Delivered before time, within budget, zero-defect Y2K compliant mission critical application with a team of 100 engineers working onsite and offshore. Worked with Wipro’s central staffing, recruitment, HR groups to hire, induct and ramp-up the team. Worked closely with the client to ensure prompt issue resolution for on time delivery.Cost savings for customers: Helped clients leverage offshore effectively, resulting in 30% savings with $16m outsourced work. The team size grew from 25 to 125.Develop domain competency: Developed specialized practice group within Healthcare for EAI, Data warehousing, MUMPS and claims processing to address domain specific and client specific challenges.Clients – Tufts Health Plan, HPHC, Falon Healthcare, Sunquest, Alina Healthsystems",
+            "duration": "729",
+            "role": "SOLUTION DESIGN HEAD-L2",
+            "start_date": "1997-04-01"
+        },
+        {
+            "domain": "MANUFACTURING",
+            "name": "GODREJ IS SUPPORT",
+            "end_date": "1991-09-06",
+            "skills": [
+                {
+                    "posid": 399,
+                    "duration": 48,
+                    "skill": "UNIX APPLICATION PROGRAMMING",
+                    "proficiency": "L3"
+                },
+                {
+                    "posid": 550,
+                    "duration": 48,
+                    "skill": "COBOL",
+                    "proficiency": "L3"
+                },
+                {
+                    "posid": 604,
+                    "duration": 24,
+                    "skill": "C PROGRAMMING",
+                    "proficiency": "L2"
+                },
+                {
+                    "posid": 5857,
+                    "duration": 48,
+                    "skill": "MAINFRAME",
+                    "proficiency": "L3"
+                }
+            ],
+            "responsibility": "As a programmer, I was responsible to understanding requirements, design systems, code and test them. I was also responsible for implementation and support",
+            "duration": "1481",
+            "role": "DEVELOPER-L3",
+            "start_date": "1987-08-17"
+        },
+        {
+            "domain": "SECURITIES AND CAPITAL MARKETS",
+            "name": "ECOE",
+            "end_date": "1994-03-31",
+            "skills": [
+                {
+                    "posid": 272,
+                    "duration": 6,
+                    "skill": "QUALITY MANAGEMENT SYSTEM",
+                    "proficiency": "L1"
+                },
+                {
+                    "posid": 9998,
+                    "duration": 24,
+                    "skill": "PROJECT MANAGEMENT-BFSI-DOMAIN",
+                    "proficiency": "L2"
+                }
+            ],
+            "responsibility": "\r\n Lead a team for\r\n     Wipro’s first client in Financial Securities - one of the largest global\r\n     mutual fund, Fidelity Investments. Won Wipro Star award for excellence as\r\n     a project manager for Wipro’s first client-server project.\r\n Lead foundation\r\n     for Wipro’s quality initiatives by leading a team to create basic software\r\n     process models and metrics measurement for journey towards ISO9000\r\n     certification\r\n",
+            "duration": "933",
+            "role": "PROJECT MANAGER-L2",
+            "start_date": "1991-09-10"
+        },
+        {
+            "domain": "UTILITIES",
+            "name": "FLEX ATCO AMS RESOURCING",
+            "end_date": "2019-05-31",
+            "skills": [
+                {
+                    "posid": 2294,
+                    "duration": 2,
+                    "skill": "DELIVERY MANAGEMENT",
+                    "proficiency": "L1"
+                }
+            ],
+            "responsibility": "Delivery management for Canada, Australia, IndiaIT operations management - infrastructure, applications, end user servicesIT projects management - small and large programs including transformationTechnology and architecture alignment with businessTechnology life cycle managementSecurity and risk managementBringing in automation and innovationEngagement governance",
+            "duration": "35",
+            "role": "BUSINESS / FUNCTION  HEAD-L2",
+            "start_date": "2019-04-26"
+        }
+    ],
+   "certifications": 
+   [
+        {
+            "skills": [],
+            "type": "External",
+            "name": "FELLOW PROGRAM IN MANAGEMENT",
+            "year": 2010
+        },
+        {
+            "skills": [
+                {
+                    "posid": 9701,
+                    "proficiency": "L1",
+                    "skill": "English Language"
+                },
+                {
+                    "posid": 7000,
+                    "proficiency": "L1",
+                    "skill": "English - STEP PLUS"
+                }
+            ],
+            "type": "Internal",
+            "name": "STEP PLUS",
+            "year": 2014
+        },
+        {
+            "skills": [
+                {
+                    "posid": 7003,
+                    "proficiency": "L3",
+                    "skill": "Communication"
+                }
+            ],
+            "type": "Internal",
+            "name": "Ambassador 3",
+            "year": 2014
+        }
+    ],
+   "preferred_skills": [
+        {
+            "proficiency": "L1",
+            "skill_name": "Embedded Debugging"
+        },
+        {
+            "proficiency": "L1",
+            "skill_name": "C# - CSharp-Programming"
+        },
+        {
+            "proficiency": "L2",
+            "skill_name": "Product Test Automation"
+        }
+    ],
+    "modified": "2019-09-05T00:00:00",
+    "aspirational_skills": [
+        {
+            "proficiency": "L1",
+            "skill_name": "Cisco ScanSafe Cloud Web Security"
+        },
+        {
+            "proficiency": "L1",
+            "skill_name": "Artifical Intelligence Testing"
+        }
+    ],
+    "roleName": "",
+    "OverallExperience": 32,
+    "experience_summary": "Mak\nhas 30+ years of IT career, and has played roles in delivery, account\nmanagement, sales, P&L management and M&A. He has lived in India, USA\nand Germany working closely with Fortune 500 customers. \n\n\nTo his customers and his organization, he is\nknown as a dependable, hands-on leader who is collaborative, culturally\nsensitive and one who achieves results.\n\n\nWhat Mak excels at:\n\n·        \nCreating innovative, differentiating customized\ntransformational yet realistic solutions\n\n·        \nDriving large, global, challenging transformational programs\n\n·        \nLeading cross cultural, globally spread teams to align and perform\nin synchronization with focus on results\n\n·        \nCreate challenging, free, fun-filled environment for teams to\nperform\n\n·        \nBringing method to madness\nCurrent Designation and Role\n\nMak\nis a Vice President of Delivery Transformations at Wipro Technologies in Energy,\nNatural Resources and Utilities business unit. He currently leads delivery operations\nand transformations for one of the top 30 customers for Wipro.\n\n                        "
+}
